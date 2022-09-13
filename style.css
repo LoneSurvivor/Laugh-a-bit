@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    width:200px;
+    height:180px;
+    background-color: #e6e2d3;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    font-size:112%;
+    justify-content:center;
+    
+}
+p{
+    display:inner-flex;
+}
